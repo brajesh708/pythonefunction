@@ -21,7 +21,7 @@ my_list1=[70,80]
 my_list1.extend(my_list)
 print(my_list1)
 print(my_list)
-
+print(lengh(my_list))
 
 my=[10,20,30,40,50]
 print(my.insert(3,100))

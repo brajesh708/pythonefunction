@@ -25,6 +25,7 @@ print(lengh(my_list))
 
 my=[10,20,30,40,50]
 print(my.insert(3,100))
+print(copy(my))
 
 
 

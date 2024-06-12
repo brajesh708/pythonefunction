@@ -10,8 +10,8 @@
 # print(type(a))
 
 
-# a= ""raj""
-# print(a)
+a= ""raj""
+print(a)
 
 # b="ram"
 # print(b)
